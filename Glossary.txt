@@ -1,0 +1,13 @@
+Console Application - A program that runs in a terminal/command prompt and uses text input/output.
+
+Namespace - A way to organize code and avoid naming conflicts by grouping related classes.
+
+Class - A blueprint used to create objects, containing data and methods.
+
+Method - A function inside a class that performs a specific action.
+
+Property - A variable inside a class that stores data and can be accessed or modified.
+
+Constructor - A special method that runs when an object is created to initialize values.
+
+.NET - A development platform from Microsoft used to build applications in C# and other languages.
